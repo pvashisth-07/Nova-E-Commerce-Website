@@ -202,8 +202,8 @@ d:\Ecommerce/
 ### 1️⃣ Clone & Install
 
 ```bash
-git clone https://github.com/your-username/luxemart.git
-cd luxemart
+git clone https://github.com/your-username/Nova.git
+cd Nova
 npm install
 ```
 
@@ -340,6 +340,6 @@ Made with ❤️ and way too much ☕
 
 <br />
 
-<sub>© 2026 LuxeMart. All rights reserved.</sub>
+<sub>© 2026 Nova. All rights reserved.</sub>
 
 </div>
