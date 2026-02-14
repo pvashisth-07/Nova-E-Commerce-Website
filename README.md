@@ -202,8 +202,8 @@ d:\Ecommerce/
 ### 1️⃣ Clone & Install
 
 ```bash
-git clone https://github.com/your-username/Nova.git
-cd Nova
+git clone https://github.com/your-username/Nova-E-Commerce-Website.git
+cd Nova-E-Commerce-Website
 npm install
 ```
 
